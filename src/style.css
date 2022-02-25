@@ -1,0 +1,30 @@
+
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(10, 220, 235);
+  color:white;
+}
+h1 {
+  color:black;
+}
+
+input, button {
+  border: none;  
+  outline: none;  
+} 
+
+form {
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 15px;
+ 
+}
+#cifrador {
+  margin-bottom: 40px;
+
+
+}
